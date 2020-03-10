@@ -40,7 +40,7 @@ baseurl: "/me" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: AldoEscobarLVP
-    linkedin: https://www.linkedin.com/in/aldo-escobar-810a0598/
+    linkedin: aldo-escobar-810a0598
     github: aoelvp94
 
 # Set this to true to get LaTeX math equation support
